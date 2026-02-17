@@ -7,4 +7,4 @@ bcrypt
 passlib
 passlib[argon2]
 python-jose
-
+pymysql
