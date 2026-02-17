@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn 
+sqlalchemy 
+pymysql 
+python-dotenv 
+bcrypt 
+passlib
+passlib[argon2]
+python-jose
+
